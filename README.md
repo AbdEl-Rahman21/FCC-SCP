@@ -1,1 +1,3 @@
-# FCC-SCP
+# Description
+
+The projects that are required for the FreeCodeCamp [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/).
